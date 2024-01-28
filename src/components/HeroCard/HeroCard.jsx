@@ -29,7 +29,7 @@ const ServiceData = [
     aosDelay: "700",
   },
 ];
-const HeroCard = () => {
+const Herocard = () => {
   return (
     <>
       <section className="bg-black text-white relative z-50 pt-12">
@@ -65,4 +65,4 @@ const HeroCard = () => {
   );
 };
 
-export default HeroCard;
+export default Herocard ;

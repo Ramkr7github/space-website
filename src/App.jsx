@@ -2,7 +2,7 @@ import React from 'react'
 import BgVideo from "./assets/earth-bg.mp4";
 import Navbar from './components/Navbar/Navbar';
 import Hero from './components/Hero/Hero';
-import HeroCard from './components/HeroCard/Herocard';
+import Hero from './components/HeroCard/Herocard';
 import Banner from './components/Banner/Banner';
 import Setelite from './components/Setelite/Setelite';
 import Footer from './components/Footer/Footer';
